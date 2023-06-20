@@ -15,7 +15,7 @@ We value ownership and are huge fans of microservices.
 Our appliactions are built with simplicity in mind and from our previous experience.
 Here are a few predominant technologies we use or intennd to use.
 
-### Web Technologies
+### Web Technologies and libraries
 
 - Animate.css
 - Bootstrap
@@ -23,12 +23,13 @@ Here are a few predominant technologies we use or intennd to use.
 - HTML
 - JavaScript
 - JQuery
+- [Navigo](https://github.com/krasimir/navigo)
 
-### Backend Technologies
+### Backend Technologies and libraries
 - AWS
 - NGINX
 - Python
-- Django Rest Framework
+- Django ecosystem
 - Docker
 - Kubernetes
 - Postgres
