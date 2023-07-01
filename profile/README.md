@@ -52,9 +52,7 @@ Here are a few predominant technologies we use or intennd to use.
 - Semantic Release
 
 ## Monitoring
-
-- Prometheus
-- Grafana
+We use the [Elastic Stack](https://www.elastic.co/elastic-stack/)
 
 ## What you ned to know to contribute
 
